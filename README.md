@@ -1,4 +1,4 @@
-<div style="text-align:center">
+<div style="display: flex; justify-content:center; align-items: center;">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&color=F75C7E&center=true&vCenter=true&width=500&lines=Rohan+Srivastava;MERN+Stack+Developer;Problem+Solver" alt="Typing SVG">
 </div>
 
