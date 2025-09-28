@@ -27,7 +27,7 @@
 - 🌐 Building scalable web applications & interactive UIs  
 - 💡 Passionate about problem-solving & continuous learning  
 - 💬 Ask me about **MERN-Stack development, SQL, java, or React**  
-- 📫 Connect with me: [LinkedIn](www.linkedin.com/in/rohan214)  
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/rohan214)
 
 ---
 
