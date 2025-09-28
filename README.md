@@ -32,11 +32,11 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohan-214&show_icons=true&theme=radical)  
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="https://github-stats-alpha.vercel.app/api?username=Rohan-214&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-214&layout=compact&theme=radical" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-214&layout=compact&theme=radical)
-
----
 
 ## 📈 Contribution Graph
 
