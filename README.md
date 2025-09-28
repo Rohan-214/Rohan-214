@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F75C7E&center=true&vCenter=true&width=500&lines=Rohan+Srivastava;MERN+Stack+Developer;Problem+Solver)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Rohan-214](https://github.com/Rohan-214)&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[Rohan-214](https://github.com/Rohan-214)&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[[Rohan-214](https://github.com/Rohan-214)](https://github.com/Rohan-214)&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[[Rohan-214](https://github.com/Rohan-214)](https://github.com/Rohan-214)&layout=compact&theme=radical)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
