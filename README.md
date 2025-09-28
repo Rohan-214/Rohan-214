@@ -31,11 +31,10 @@
 
 ---
 
----
 
 ## 📊 GitHub Stats
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://github-stats-alpha.vercel.app/api?username=Rohan-214&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohan-214&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-214&layout=compact&theme=radical" />
 </div>
 
