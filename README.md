@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F75C7E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F75C7E&center=true&vCenter=true&width=500&lines=Rohan+Srivastava;MERN+Stack+Developer;Problem+Solver)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
